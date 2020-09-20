@@ -31,8 +31,8 @@ ICONS=(
   git_renamed        $'\uf45a' # 
   git_unmerged       $'\ue727' # 
   git_untracked      $'\uf128' # 
-  git_ahead          $'\uf061' # 
-  git_behind         $'\uf060' # 
+  git_ahead          $'\ufc97' # ﲗ
+  git_behind         $'\ufc90' # ﲐ
   git_remote_exists  $'\uf662' # 
   git_remote_missing $'\uf663' # 
 )
