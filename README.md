@@ -21,3 +21,4 @@ Requires a font with extra glyphs / icons added, such as [Hack](https://github.c
 
 Terminal colours / inspriation from [iterm2-material-design](https://www.martinseeler.com/iterm2-material-design/). 
 
+
